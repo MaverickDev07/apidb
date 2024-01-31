@@ -1,0 +1,9 @@
+# Enviroment
+.env
+
+# Packages
+vendor
+upload
+
+# Composer
+composer.lock

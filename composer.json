@@ -1,0 +1,24 @@
+{
+  "name": "app/apidonbosco",
+  "description": "api rest don bosco sucre",
+  "authors": [
+    {
+      "name": "Jose Chirinos",
+      "email": "josealexcba@gmail.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "2.*",
+    "palanik/corsslim": "*",
+    "fpdo/fluentpdo": "1.1.*",
+    "firebase/php-jwt": "^5.0",
+    "fightbulc/moment": "1.*",
+    "tecnickcom/tcpdf": "^6.3",
+    "rplansky/credit-card": "*@dev",
+    "ext-zip": "*",
+    "google/recaptcha": "^1.2",
+    "vlucas/phpdotenv": "^5.3",
+    "phpoffice/phpspreadsheet": "^1.18",
+    "hashids/hashids": "^4.1"
+  }
+}
